@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: rgba(105, 105, 105, 0.377);
+}
+#container{
+  width: 100%
+}
+.inc{
+  width:20%;
+  background-color: darkgray;
+}
+.dec{
+width:20%;
+background-color: darkgrey;
+}
+
